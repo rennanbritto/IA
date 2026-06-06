@@ -4,6 +4,10 @@ Projeto de classificação de imagens de flores utilizando Deep Learning e Trans
 
 ## Dataset
 
+Dataset disponível em:
+
+[https://www.kaggle.com/datasets/alxmamaev/flowers-recognition](https://www.kaggle.com/datasets/rahmasleam/flowers-dataset)
+
 Flower Photos Dataset contendo:
 
 - Daisy
@@ -11,15 +15,6 @@ Flower Photos Dataset contendo:
 - Roses
 - Sunflowers
 - Tulips
-
-## Tecnologias
-
-- Python
-- TensorFlow
-- Keras
-- Scikit-Learn
-- Matplotlib
-- Google Colab
 
 ## Arquitetura
 
