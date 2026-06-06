@@ -1,4 +1,4 @@
-# Flower Classification using MobileNetV2
+# 🌻 Flower Classification using MobileNetV2
 
 Projeto de classificação de imagens de flores utilizando Deep Learning e Transfer Learning com MobileNetV2.
 
